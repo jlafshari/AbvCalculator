@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alcohol by Volume Calculator</string>
+    <string name="original_gravity">Original Gravity:</string>
+    <string name="final_gravity">Final Gravity:</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string name="abv_heading">%1$s%%</string>
+    <string name="invalid_original_gravity">Invalid original gravity!</string>
+    <string name="invalid_final_gravity">Invalid final gravity!</string>
+</resources>
